@@ -1,4 +1,4 @@
-# Netflixclonedjangoreact
+# Netflix Clone Project
 
 A Netflix clone I created for the sake of practicing React ,Redux and Django REST API. It features design patterns recommended by the documentation. Some of the tools used include:
 
@@ -8,7 +8,12 @@ A Netflix clone I created for the sake of practicing React ,Redux and Django RES
    4. React
    5. Responsive Web Design
    6. Bootstrap
- ### [Live Demo]()
+ ### [Live Demo](https://frontend-netflix-clone-sangita.herokuapp.com/)
+ 
+ ### [API LInk](https://backened-netflix-clone-sangita.herokuapp.com/)
+ 
+ ![Screenshot_2022-01-28-22-07-12-90_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/94559171/151587027-c2571d07-9ebc-4f6f-b0f1-7f9eadb83a7c.jpg)
+
  
  ### This projects have two parts: 
  - Frontend ( React and Redux )
